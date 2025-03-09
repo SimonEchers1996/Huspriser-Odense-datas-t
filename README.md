@@ -11,4 +11,5 @@ Dataet beskriver,
 6. **Værelser**: Antallet af værelser.
 7. **Toiletter**: Antallet af toiletter.
 8. **Handel**: Beskriver typen af handel hvorunder boligen er blevet solgt. Af typer er der fri handel(under normale handelsvilkår), auktion(tvangsauktion) og familiehandel(handlet mellem nærtstående familiemedlemmer).
+
 I datasættet er der lige knap og nap 10000 ejendomme. 
